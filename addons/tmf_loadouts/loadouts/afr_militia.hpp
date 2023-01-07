@@ -1,4 +1,4 @@
-// If you want to base a loadout on an existing one, this repository contains them all:
+// If you want to base a loadout on an existing one, this repository contains them all VIKING TESTING, LOADOUT FILE FUCKED ANYWAY SO UPDATE SOON:
 // https://github.com/ARCOMM/arc_misc/tree/master/addons/tmf_loadouts
 
 /*
